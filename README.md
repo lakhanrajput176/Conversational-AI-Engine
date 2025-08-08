@@ -1,4 +1,4 @@
-# Conversational AI Recruitment Assistant (Demo Project)
+# Conversational AI Recruitment Assistant 
 
 ## Overview
 This is a proof-of-concept **AI-powered chatbot** designed to assist recruiters in pre-screening candidates.
